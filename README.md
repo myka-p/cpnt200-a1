@@ -16,7 +16,8 @@ author: Myka Peligrino
   **Denny's offer a wide range of dishes from breakfast, lunch, and dinner meals which is available all day. Not just that, but they also offer drinks such as smoothies, milkshaskes, and alcohol. They also have some desserts like cheescakes. A lot of people love that they are still able to eat breakfast meals for dinner, or have a burger first thing in the morning.**
 
 ## Sitemap
-Figjam link: https://www.figma.com/file/LwJPy9rQq7z1HfYPvdVvQR/cpn201-a1?node-id=1%3A288
+Figjam link: https://www.figma.com/file/LwJPy9rQq7z1HfYPvdVvQR/cpn201-a1?node-id=1%3A288 
+![Denny's Figjam Sitemap](assets/sitemap.png)
 
 ## Content type definitions
 - ![Description](assets/field-types/text.png)
